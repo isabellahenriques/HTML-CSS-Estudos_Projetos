@@ -1,0 +1,126 @@
+/*Limpar formatação padrão*/
+*{
+    margin:0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background-color: #D9BBA9;
+}
+
+/****** LAYOUT ******/
+
+#area-cabecalho{
+    background-color: #F29F05;
+    padding: auto;
+    text-align: center;
+   
+}
+
+#area-logo, #area-menu{
+    padding: 10px;
+}
+
+#area-principal{
+    width: 920px;
+    margin:0 auto;
+    padding: 15px;
+}
+
+#area-postagens {    
+    width: 660px;
+    float: left;     
+}
+
+#area-lateral {
+	width: 240px;
+	float: right;
+}
+
+.postagens{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.conteudo-lateral {
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.postagem-lateral {
+	font-size: 0.8em;
+	padding: 5px;
+	border-bottom: 1px dotted #CCC;
+}
+
+#area-rodape{
+    clear:both;
+    text-align: center;
+    padding: 5px;
+    background: #F29F05;
+}
+
+/****** MENU ******/
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color:#592316;    
+}
+
+a:hover {
+    color:#D93E30;
+    text-decoration: underline;
+}
+
+#area-cabecalho a:link, #area-cabecalho a:visited {
+    color:#592316; 
+    padding: 40px;        
+}
+
+#area-cabecalho a:hover {
+    color:#D93E30;
+    
+    text-decoration: none;
+}
+
+/****** FORMATAÇÃO GERAL ******/
+
+h1{ /* Bella Receitas*/
+    font-family: 'Rochester', cursive;
+    color:#592316;
+    font-size: 4.0em;
+      
+}
+
+h2{
+    color:#592316;
+}
+
+
+
+h3 {
+	color:#592316;
+	background: #F29F05;
+	padding: 5px;
+}
+
+
+
+
+.marca-cor2{
+    color: #D93E30;
+}
+
+.data-postagem{    
+    font-size: 0.8em;
+	border-bottom: 1px solid #f4f4f4;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+}

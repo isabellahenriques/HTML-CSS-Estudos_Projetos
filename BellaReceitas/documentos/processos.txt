@@ -1,0 +1,9 @@
+familia tipográfica
+
+
+marca
+https://fonts.google.com/specimen/Rochester?category=Handwriting&preview.text=BellaReceitas&preview.text_type=custom&sidebar.open&selection.family=Rochester
+
+<link href="https://fonts.googleapis.com/css2?family=Rochester&display=swap" rel="stylesheet">
+
+font-family: 'Rochester', cursive;
