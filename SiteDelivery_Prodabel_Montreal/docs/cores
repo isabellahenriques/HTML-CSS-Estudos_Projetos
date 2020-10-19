@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-1-hex { color: #F2CED5; }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-2-hex { color: #8B8C5D; }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-3-hex { color: #F2D091; }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-4-hex { color: #BF8275; }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-5-hex { color: #A65353; }
+
+/* Color Theme Swatches in RGBA */
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-1-rgba { color: rgba(242, 205, 212, 1); }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-2-rgba { color: rgba(138, 140, 92, 1); }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-3-rgba { color: rgba(242, 208, 145, 1); }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-4-rgba { color: rgba(191, 130, 116, 1); }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-5-rgba { color: rgba(165, 82, 82, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-1-hsla { color: hsla(348, 58, 87, 1); }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-2-hsla { color: hsla(61, 20, 45, 1); }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-3-hsla { color: hsla(39, 79, 76, 1); }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-4-hsla { color: hsla(11, 36, 60, 1); }
+.Closeup-shot-of-colorful-macaroons-of-different-flavors-on-a-pink-background-5-hsla { color: hsla(0, 33, 48, 1); }
