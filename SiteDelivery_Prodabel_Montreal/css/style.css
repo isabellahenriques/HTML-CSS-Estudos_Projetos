@@ -1,11 +1,12 @@
 body {
     background-color:rgba(242, 208, 145, 0.3);
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 100%;
 }
 
 h1 {
     font-family: 'Lobster Two', cursive;
-    color:#592316;
+    color:#592316;    
     font-size: 3.0em;
     text-align: center;
 }
@@ -18,36 +19,45 @@ ul {
     background-color:#BF8275;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 #area-cabecalho {
     background-color: #BF8275;
+    width: 100%;
     padding: auto;
 }
 
 #area-logo {
-    padding: 10px;
+    padding: 5px;
     text-align: center;  
 }
 
 #area-principal {
-   /* background-color: #BF8275; */
-    height: 100%;
-    width: 100%;
+    background-color:#f2d091;  
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding: 10px;
 }
+
+
 #area-postagem {
-   /* border: #592316 1px solid;*/
-    background-color:#f2d091;     
-    width: 329px;
+    border: #592316 1px solid;
+    background-color:#f2d091;       
+    padding: 10px;
+    width: 23.3%;
     height: 500px;
-    padding: 2px;
-    float: right;
-            
+    float: left;    
+    
 }
+
 
 #postagem {    
     text-align: center;
 }
-
-
 
 
 li {
@@ -74,8 +84,7 @@ h1, h2, h3 {
 
 table {
     margin: 15px;
-    width:auto;
-    
+    width:auto;    
 }
 
 table, th, td {
@@ -97,8 +106,33 @@ th, td {
     padding: 10px;
 }
 
+#contato {
+    padding: 10px; 
+    background-color:#f2d091;    
+}
+#Quem_Somos {
+    padding: 10px; 
+    background-color:#f2d091;    
+}
+
+#trabalhe {
+    padding: 10px;
+    background-color:#f2d091; 
+}
+
+#registrar {
+    padding: 10px;
+    background-color:#f2d091; 
+}
+
+#entrar {
+    padding: 10px;
+    background-color:#f2d091; 
+}
+
 
 #area-rodape {
+    /*border: 1px solid #A65353;*/
     text-align:center; 
     color:#A65353;    
 }
